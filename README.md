@@ -1,1 +1,2 @@
-# ape-apps
+# apex-apps
+- Church Checkins
